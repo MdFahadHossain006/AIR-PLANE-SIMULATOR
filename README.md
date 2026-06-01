@@ -19,6 +19,8 @@
 ![Flight](https://img.shields.io/badge/🛩️_FLIGHT-MODE-00f5ff?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-LIVE-success?style=for-the-badge)
 
+<img src="https://img.shields.io/badge/Made%20By-Fahad-blueviolet?style=for-the-badge">
+
 </div>
 
 ## 🎮 “BE THE PILOT. OWN THE SKY. BREAK THE LIMITS.”
@@ -32,7 +34,6 @@ This simulator allows users to experience the fundamentals of flight operation i
 
 The project is built using core web technologies, ensuring lightweight performance, fast loading speed, and cross-device compatibility without requiring any installation or external dependencies.
 
-<img src="https://img.shields.io/badge/Made%20By-Fahad-blueviolet?style=for-the-badge">
 
 ### 📊 LIVE FLIGHT STATS
 
