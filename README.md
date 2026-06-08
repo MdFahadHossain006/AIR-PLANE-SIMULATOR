@@ -220,7 +220,7 @@ modification, or use of this code is strictly prohibited.
 
 **Legal action will be taken against violators.**
 
-[Contact for Licensing](hossainmdfahad67@gmail.com)
+[Contact for Licensing](https://www.instagram.com/mdfahadhossain006)
 
 
 ### "Speed is nothing without control." 🏎️💨
